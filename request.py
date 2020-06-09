@@ -14,7 +14,7 @@ client_id = '1416f8f1-da7b-4675-9bde-55ba9b2654b9'
 # Define endpoint and parameters
 endpoint = 'https://frost.met.no/observations/v0.jsonld'
 parameters = {
-    'sources': 'SN18700, ',
+    'sources': 'SN18700',
     'elements': 'air_temperature',#',,wind_speed, wind_from_direction',
     'referencetime': '2015-06-01/2015-07-01',
 }
